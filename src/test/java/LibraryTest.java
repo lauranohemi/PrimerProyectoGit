@@ -4,7 +4,7 @@
 import org.junit.Test;
 /**
  * @author Laura Morales
- * 
+ * Hola esto es mi primer prueba
  */
 import static org.junit.Assert.*;
 
